@@ -10,7 +10,7 @@ As part of the **Intro to Programming Scholarship**, I developed a **Rock Paper 
 - **Adheres to PEP 8:** Clean, well-structured code.
 
 ## **Udacity Project Completion** 🖼️ 🖼️
-![Rock Paper Scissors](https://github.com/user-attachments/assets/ebd49dca-0ac6-4c82-9fa8-803dd51df7a1)
+![image](https://github.com/user-attachments/assets/1e5b4009-f40d-4842-8ce5-eabfcc0bb8db)
 
 ## **Technologies Used** 🛠️
 - **Python** (OOP, Functions, Loops, Conditionals)
